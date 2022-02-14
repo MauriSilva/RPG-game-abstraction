@@ -1,0 +1,15 @@
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\bin\Debug\net6.0\jogoRPG.exe
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\bin\Debug\net6.0\jogoRPG.deps.json
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\bin\Debug\net6.0\jogoRPG.runtimeconfig.json
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\bin\Debug\net6.0\jogoRPG.dll
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\bin\Debug\net6.0\ref\jogoRPG.dll
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\bin\Debug\net6.0\jogoRPG.pdb
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\obj\Debug\net6.0\jogoRPG.csproj.AssemblyReference.cache
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\obj\Debug\net6.0\jogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\obj\Debug\net6.0\jogoRPG.AssemblyInfoInputs.cache
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\obj\Debug\net6.0\jogoRPG.AssemblyInfo.cs
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\obj\Debug\net6.0\jogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\obj\Debug\net6.0\jogoRPG.dll
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\obj\Debug\net6.0\ref\jogoRPG.dll
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\obj\Debug\net6.0\jogoRPG.pdb
+C:\Users\leone\Desktop\jogo rpg dio\jogoRPG\obj\Debug\net6.0\jogoRPG.genruntimeconfig.cache
